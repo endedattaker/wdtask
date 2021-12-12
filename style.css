@@ -1,0 +1,33 @@
+.heading2{
+    text-align: center;
+    color: maroon;
+    margin-top: auto;
+}
+.topimg{
+    align-content: center;
+    margin-left: 300px;
+    margin-top: 20px;
+    height: 350px;
+    width: auto;
+}
+.divcontact{
+    margin-top: 20px;
+    background-color: rgb(187, 179, 179);
+}
+.headingundr{
+    text-align: center;
+   
+    color: rgb(105, 30, 17);
+    margin-top: 30px;
+}
+.card {display:inline-block;
+    
+}
+.heading1{
+text-align: center;
+color: crimson;
+font-family: 'Oswald', sans-serif;
+}
+P{
+    font-size: 25px;
+}
